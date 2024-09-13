@@ -1,0 +1,17 @@
+pandas 
+tqdm
+Pillow 
+requests
+scikit-learn
+tensorflow
+numpy
+seaborn  
+matplotlib
+keras
+scipy
+joblib
+opencv-python
+pytesseract
+spacy
+
+-e .
